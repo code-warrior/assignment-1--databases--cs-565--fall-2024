@@ -4,3 +4,4 @@
 !.gitignore
 !content.md
 !README.md
+!*.sql
