@@ -28,6 +28,7 @@ For this assignment, you’ll be working with CRUD operations on a database of o
 ---
 
 ## ❖・Standing Up Scaffold of Database・❖
+
 All you need to do is run `setup.sql` from your MySQL CLI:
 
 ```bash
