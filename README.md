@@ -7,7 +7,7 @@
 1. Log in to GitHub.
 2. Fork this repo(sitory). See [this video](http://code-warrior.github.io/tutorials/git/github/forking-and-cloning-at-the-github-web-site/) on how to carry out this step and step `3`.
 3. Clone your fork, using either the web site or the GitHub Desktop client.
-4. Create a branch with your first name and last name, all lower case and separated by a dash (no spaces). For example, my branch would be called `roy-vanegas`.
+4. Create a branch with your first name and last name, all lower case and separated by a dash (no spaces). For example, my branch would be called `roy-vanegas` and I’d create it as follows: `git checkout -b roy-vanegas`. For there to be an upstream branch, I’d then do, `git push --set-upstream origin roy-vanegas`.
 5. Checkout our this new personalized branch.
 6. Do all your work in your personalized branch.
 
