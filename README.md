@@ -15,9 +15,15 @@
 
 ## ❖・Introduction・❖
 
+For this assignment, you’ll be working with CRUD operations on a database of over 100 spices. A basic starter scaffold is provided.
+
 ---
 
-## ❖・Details・❖
+## ❖・Rules・❖
+
+* You will need to carry out *all* the commands defined in `commands.sql`.
+* You’ll need to create more tables for your project to work properly. These *must* be loaded via `setup.sql`.
+* Do not load `commands.sql` via `setup.sql`. However, you can test your commands by running `SOURCE commands.sql`.
 
 ---
 
@@ -35,8 +41,6 @@ mysql -u root -p < setup.sql
 ```
 
 Of course, in both cases, you’ll need to ensure you’re working from this repo’s root folder.
-
-### General
 
 ---
 
