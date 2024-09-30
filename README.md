@@ -21,8 +21,9 @@ For this assignment, you’ll be working with CRUD operations on a database of o
 
 ## ❖・Rules・❖
 
-* You will need to carry out *all* the commands defined in `commands.sql`.
-* You’ll need to create more tables for your project to work properly. These *must* be loaded via `setup.sql`.
+* The tabular content in `content.md` must be included in one or more tables.
+* Carry out *all* the commands defined in `commands.sql`.
+* Any tables you create must be created via `setup.sql`. Thus, they must be included in a `.sql` file.
 * Do not load `commands.sql` via `setup.sql`. However, you can test your commands by running `SOURCE commands.sql`.
 
 ---
