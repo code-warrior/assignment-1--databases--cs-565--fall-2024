@@ -21,7 +21,20 @@
 
 ---
 
-## ❖・Rules・❖
+## ❖・Standing Up Scaffold of Database・❖
+All you need to do is run `setup.sql` from your MySQL CLI:
+
+```bash
+mysql -u root -p
+```
+
+Alternatively, you may run the following:
+
+```bash
+mysql -u root -p < setup.sql
+```
+
+Of course, in both cases, you’ll need to ensure you’re working from this repo’s root folder.
 
 ### General
 
