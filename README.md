@@ -34,7 +34,7 @@
 | *Commands implemented properly* | `25`   |
 | *Following directions*          | `25`   |
 | *Syntax and style*              | `25`   |
-| *Scaffold neatness*             | `25`   |
+| *Scaffold design and neatness*  | `25`   |
 
 ---
 
