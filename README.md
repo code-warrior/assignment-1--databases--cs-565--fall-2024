@@ -29,9 +29,12 @@
 
 ## ❖・Grading・❖
 
-| Item                     | Points |
-|--------------------------|:------:|
-| *X*                      | `XX`   |
+| Item                            | Points |
+|---------------------------------|:------:|
+| *Commands implemented properly* | `25`   |
+| *Following directions*          | `25`   |
+| *Syntax and style*              | `25`   |
+| *Scaffold neatness*             | `25`   |
 
 ---
 
