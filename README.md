@@ -21,10 +21,10 @@ For this assignment, you’ll be working with CRUD operations on a database of o
 
 ## ❖・Rules・❖
 
-* The tabular content in `content.md` must be included in one or more tables.
+* The tabular content in `content.md` must be included in one or more *new* tables.
+* Any tables you author must be created using a `.sql` file and must be included in `setup.sql`.
 * Carry out *all* the commands defined in `commands.sql`.
-* Any tables you create must be created via `setup.sql`. Thus, they must be included in a `.sql` file.
-* Do not load `commands.sql` via `setup.sql`. However, you can test your commands by running `SOURCE commands.sql`.
+* Do not load `commands.sql` via `setup.sql`. However, you may test your commands by running `SOURCE commands.sql`.
 
 ---
 
